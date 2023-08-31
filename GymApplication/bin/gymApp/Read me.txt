@@ -1,0 +1,11 @@
+prerequisites:
+  xampp-windows-x64-7.4.11-0-VC15-installer.
+  .NET FrameWork 4.6.1 or higher.
+
+Instructions to install the appliaction:
+  copy the database script and import it in a new sql query in phpmyadmin
+  make sure the username is root, password is empty and the host is localhost.
+
+login information:
+  username: 123
+  password: 123

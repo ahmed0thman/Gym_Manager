@@ -1,0 +1,198 @@
+E:\my_pc\GunaDemos\GymApp\GymApp.Logic\bin\Debug\GymApp.Logic.dll
+E:\my_pc\GunaDemos\GymApp\GymApp.Logic\bin\Debug\GymApp.Logic.pdb
+E:\my_pc\GunaDemos\GymApp\GymApp.Logic\obj\Debug\GymApp.Logic.csprojAssemblyReference.cache
+E:\my_pc\GunaDemos\GymApp\GymApp.Logic\obj\Debug\GymApp.Logic.csproj.CoreCompileInputs.cache
+E:\my_pc\GunaDemos\GymApp\GymApp.Logic\obj\Debug\GymApp.Logic.dll
+E:\my_pc\GunaDemos\GymApp\GymApp.Logic\obj\Debug\GymApp.Logic.pdb
+E:\my_pc\GunaDemos\GymApplication\GymApp.Logic\bin\Debug\GymApp.Logic.dll
+E:\my_pc\GunaDemos\GymApplication\GymApp.Logic\bin\Debug\GymApp.Logic.pdb
+E:\my_pc\GunaDemos\GymApplication\GymApp.Logic\bin\Debug\Guna.UI.dll
+E:\my_pc\GunaDemos\GymApplication\GymApp.Logic\bin\Debug\gymApp.DAL.dll
+E:\my_pc\GunaDemos\GymApplication\GymApp.Logic\bin\Debug\gymApp.DAL.pdb
+E:\my_pc\GunaDemos\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.csprojAssemblyReference.cache
+E:\my_pc\GunaDemos\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.csproj.CoreCompileInputs.cache
+E:\my_pc\GunaDemos\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.csproj.CopyComplete
+E:\my_pc\GunaDemos\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.dll
+E:\my_pc\GunaDemos\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.pdb
+E:\Work\Projects\New folder (2)\GymApplication\GymApp.Logic\bin\Debug\GymApp.Logic.dll
+E:\Work\Projects\New folder (2)\GymApplication\GymApp.Logic\bin\Debug\GymApp.Logic.pdb
+E:\Work\Projects\New folder (2)\GymApplication\GymApp.Logic\bin\Debug\Guna.UI.dll
+E:\Work\Projects\New folder (2)\GymApplication\GymApp.Logic\bin\Debug\gymApp.DAL.dll
+E:\Work\Projects\New folder (2)\GymApplication\GymApp.Logic\bin\Debug\gymApp.DAL.pdb
+E:\Work\Projects\New folder (2)\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.csprojAssemblyReference.cache
+E:\Work\Projects\New folder (2)\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.csproj.CoreCompileInputs.cache
+E:\Work\Projects\New folder (2)\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.csproj.CopyComplete
+E:\Work\Projects\New folder (2)\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.dll
+E:\Work\Projects\New folder (2)\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.pdb
+E:\Work\Projects\Windows Applications\GymApplication\GymApp.Logic\bin\Debug\GymApp.Logic.dll
+E:\Work\Projects\Windows Applications\GymApplication\GymApp.Logic\bin\Debug\GymApp.Logic.pdb
+E:\Work\Projects\Windows Applications\GymApplication\GymApp.Logic\bin\Debug\Guna.UI.dll
+E:\Work\Projects\Windows Applications\GymApplication\GymApp.Logic\bin\Debug\gymApp.DAL.dll
+E:\Work\Projects\Windows Applications\GymApplication\GymApp.Logic\bin\Debug\gymApp.DAL.pdb
+E:\Work\Projects\Windows Applications\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.csprojAssemblyReference.cache
+E:\Work\Projects\Windows Applications\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.csproj.CoreCompileInputs.cache
+E:\Work\Projects\Windows Applications\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.csproj.CopyComplete
+E:\Work\Projects\Windows Applications\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.dll
+E:\Work\Projects\Windows Applications\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.pdb
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\GymApp.Logic.dll
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\GymApp.Logic.pdb
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\Guna.UI.dll
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\gymApp.DAL.dll
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\gymApp.DAL.pdb
+D:\Work\C#\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.csprojAssemblyReference.cache
+D:\Work\C#\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.csproj.CoreCompileInputs.cache
+D:\Work\C#\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.csproj.CopyComplete
+D:\Work\C#\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.dll
+D:\Work\C#\GymApplication\GymApp.Logic\obj\Debug\GymApp.Logic.pdb
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\MySql.Data.dll
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\Google.Protobuf.dll
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\Zstandard.Net.dll
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\BouncyCastle.Crypto.dll
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\Ubiety.Dns.Core.dll
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\Renci.SshNet.dll
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\System.Buffers.dll
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\K4os.Compression.LZ4.dll
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\K4os.Hash.xxHash.dll
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\netstandard.dll
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\System.Memory.dll
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\System.Numerics.Vectors.dll
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\MySql.Data.xml
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\Google.Protobuf.xml
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\Renci.SshNet.xml
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\System.Buffers.xml
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\K4os.Compression.LZ4.xml
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\K4os.Hash.xxHash.xml
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\System.Memory.xml
+D:\Work\C#\GymApplication\GymApp.Logic\bin\Debug\System.Numerics.Vectors.xml
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\obj\Debug\GymApp.Logic.csprojAssemblyReference.cache
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\obj\Debug\GymApp.Logic.csproj.CoreCompileInputs.cache
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\obj\Debug\GymApp.Logic.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\obj\Debug\GymApp.Logic.pdb
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\GymApp.Logic.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\GymApp.Logic.pdb
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\Guna.UI.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\gymApp.DAL.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\MySql.Data.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\Google.Protobuf.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\Zstandard.Net.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\BouncyCastle.Crypto.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\Ubiety.Dns.Core.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\Renci.SshNet.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Buffers.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\K4os.Compression.LZ4.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\K4os.Hash.xxHash.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\netstandard.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Memory.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Numerics.Vectors.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\gymApp.DAL.pdb
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\MySql.Data.xml
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\Google.Protobuf.xml
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\Renci.SshNet.xml
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Buffers.xml
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\K4os.Compression.LZ4.xml
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\K4os.Hash.xxHash.xml
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Memory.xml
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Numerics.Vectors.xml
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\obj\Debug\GymApp.Logic.csproj.CopyComplete
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\GymApp.Logic.dll.config
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.AppContext.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Collections.Concurrent.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Collections.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Collections.NonGeneric.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Collections.Specialized.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.ComponentModel.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Console.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Data.Common.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Diagnostics.Debug.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Diagnostics.Process.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Diagnostics.Tools.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Drawing.Primitives.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Dynamic.Runtime.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Globalization.Calendars.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Globalization.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Globalization.Extensions.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.IO.Compression.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.IO.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.IO.FileSystem.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.IO.Pipes.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Linq.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Linq.Expressions.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Linq.Parallel.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Linq.Queryable.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Net.Http.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Net.NameResolution.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Net.NetworkInformation.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Net.Ping.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Net.Primitives.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Net.Requests.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Net.Security.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Net.Sockets.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Net.WebSockets.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.ObjectModel.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Reflection.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Reflection.Extensions.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Reflection.Primitives.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Resources.Reader.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Resources.ResourceManager.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Resources.Writer.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Runtime.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Runtime.Extensions.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Runtime.Handles.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Runtime.InteropServices.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Runtime.Numerics.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Security.Claims.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Security.Principal.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Security.SecureString.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Text.Encoding.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Text.RegularExpressions.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Threading.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Threading.Overlapped.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Threading.Tasks.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Threading.Thread.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Threading.ThreadPool.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Threading.Timer.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.ValueTuple.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Xml.XDocument.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Xml.XmlDocument.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Xml.XPath.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work\C#\GymApplication(ms)\GymApp.Logic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
